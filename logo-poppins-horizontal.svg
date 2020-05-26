@@ -1,29 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="519px" height="169px" viewBox="0 0 519 169" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="518px" height="169px" viewBox="0 0 518 169" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
     <title>logo-horizontal-umbrella</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <text id="text-1" font-family="Times-Bold, Times" font-size="116" font-weight="bold" letter-spacing="0.725" fill="#1D3557">
-            <tspan x="0" y="168">poppins</tspan>
-        </text>
-        <filter x="-0.5%" y="-0.7%" width="101.0%" height="102.9%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="logo-horizontal-umbrella" transform="translate(-1.000000, -40.000000)">
+        <g id="logo-horizontal-umbrella" transform="translate(-2.000000, -40.000000)">
             <g id="noun_Umbrella_53490" transform="translate(430.761656, 127.293982) rotate(26.000000) translate(-430.761656, -127.293982) translate(339.261656, 30.293982)" fill="#E63946">
                 <path d="M182.217244,88.3730592 C177.415664,84.7114242 170.153381,82.4934215 162.073716,82.4934215 C151.156755,82.4934215 142.035036,86.4896875 138.089353,92.3285689 C134.14367,86.4896875 125.002693,82.4934215 114.10499,82.4934215 C103.188028,82.4934215 94.0449122,86.4896875 90.1013685,92.3285689 C86.155685,86.4896875 77.014709,82.4934215 66.1170051,82.4934215 C55.2214409,82.4934215 46.0783251,86.4896875 42.1326416,92.3285689 C38.1869582,86.4896875 29.0459821,82.4934215 18.1482782,82.4934215 C11.3011051,82.4934215 4.95677134,84.0829186 0.217243725,86.8886706 C8.29476821,43.4681574 46.4720376,11.3285689 91.0792304,11.3285689 C114.26975,11.3285689 136.437473,19.9710572 153.510471,35.6429409 C168.75399,49.6395246 178.793657,68.1600617 182.217244,88.3730592 Z" id="Path"></path>
                 <path d="M95.9501191,4.88045531 L95.9501191,10.5420075 C93.7001191,10.47752 92.7888691,10.4330459 91.2521191,10.4330459 C89.8481191,10.4330459 89.2001191,10.455283 86.9501191,10.5197704 L86.9501191,4.88045531 C86.9501191,2.47218313 89.0358691,0.542007458 91.4501191,0.542007458 C93.8643691,0.542007458 95.9501191,2.47218313 95.9501191,4.88045531 Z" id="Path"></path>
                 <path d="M95.0206241,90.0729991 L95.0206241,173.901717 C95.0206241,184.838326 86.8330611,193.072999 76.0142376,193.072999 C65.5466746,193.072999 57.0206241,184.062969 57.0206241,172.98031 C57.0206241,170.718674 58.8407922,168.873712 61.0846017,168.873712 C63.3475709,168.873712 65.1507082,170.716526 65.1507082,172.98031 C65.1507082,179.53755 69.8469547,184.859804 75.8290275,184.859804 C82.1219126,184.859804 86.5073468,180.25062 86.5073468,173.901717 L86.5073468,92.126298 C88.6361984,94.1795968 89.602697,96.5464748 89.602697,99.0615511 C89.6005681,95.6680237 90.7629211,92.5257892 95.0206241,90.0729991 Z" id="Path"></path>
             </g>
-            <g id="poppins" fill="#1D3557" fill-opacity="1">
-                <use filter="url(#filter-2)" xlink:href="#text-1"></use>
-                <use xlink:href="#text-1"></use>
-            </g>
+            <text id="poppins" font-family="Times-Bold, Times" font-size="116" font-weight="bold" letter-spacing="0.725" fill="#1D3557">
+                <tspan x="0" y="168">poppins</tspan>
+            </text>
         </g>
     </g>
 </svg>
