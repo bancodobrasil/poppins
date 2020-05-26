@@ -17,14 +17,13 @@
                 <feMergeNode in="SourceGraphic"></feMergeNode>
             </feMerge>
         </filter>
-        <text id="text-5" font-family="Times-Bold, Times" font-size="16" font-weight="bold" letter-spacing="0.379999995" fill="#FFFFFF">
-            <tspan x="44" y="15">poppin</tspan>
-            <tspan x="94.3190625" y="15">s</tspan>
+        <text id="text-5" font-family="Times-Bold, Times" font-size="14" font-weight="bold" letter-spacing="0.332499981" fill="#FFFFFF">
+            <tspan x="47" y="14">poppins</tspan>
         </text>
-        <filter x="-3.5%" y="-5.3%" width="107.0%" height="121.1%" filterUnits="objectBoundingBox" id="filter-6">
+        <filter x="-4.0%" y="-5.6%" width="108.0%" height="122.2%" filterUnits="objectBoundingBox" id="filter-6">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.11372549   0 0 0 0 0.207843137   0 0 0 0 0.341176471  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0.00352226283   0 0 0 0 0.0467846023   0 0 0 0 0.108072917  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
