@@ -6,10 +6,9 @@
 <br />
 <br />
   <img height="20" src="/badge-poppins.svg" alt="Poppins">
-  <br />
-<br />
 
 
 # What is a Poppins Project?
 
 ## Making your Project become a Poppins Project
+
