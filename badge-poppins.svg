@@ -17,19 +17,19 @@
                 <feMergeNode in="SourceGraphic"></feMergeNode>
             </feMerge>
         </filter>
-        <text id="text-5" font-family="Times-Bold, Times" font-size="16" font-weight="bold" letter-spacing="0.100000001" fill="#FFFFFF">
-            <tspan x="46" y="15">poppin</tspan>
-            <tspan x="94.6390625" y="15">s</tspan>
+        <text id="text-5" font-family="Times-Bold, Times" font-size="16" font-weight="bold" letter-spacing="0.379999995" fill="#FFFFFF">
+            <tspan x="44" y="15">poppin</tspan>
+            <tspan x="94.3190625" y="15">s</tspan>
         </text>
-        <filter x="-6.4%" y="-13.2%" width="112.7%" height="136.8%" filterUnits="objectBoundingBox" id="filter-6">
+        <filter x="-3.5%" y="-5.3%" width="107.0%" height="121.1%" filterUnits="objectBoundingBox" id="filter-6">
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.11372549   0 0 0 0 0.207843137   0 0 0 0 0.341176471  0 0 0 0.8 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.11372549   0 0 0 0 0.207843137   0 0 0 0 0.341176471  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="badge-poppins" transform="translate(0.000000, -2.000000)">
-            <g id="Clipped" transform="translate(0.000000, 2.000000)">
+        <g id="badge-poppins" transform="translate(0.000000, -1.000000)">
+            <g id="Clipped" transform="translate(0.000000, 1.000000)">
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
@@ -40,7 +40,7 @@
                     <polygon id="Path" fill="url(#linearGradient-3)" points="0 0 111 0 111 20 0 20"></polygon>
                 </g>
             </g>
-            <g id="noun_Umbrella_53490" filter="url(#filter-4)" transform="translate(18.186788, 12.186788) rotate(26.000000) translate(-18.186788, -12.186788) translate(11.686788, 5.686788)" fill="#000000">
+            <g id="noun_Umbrella_53490" filter="url(#filter-4)" transform="translate(18.186788, 11.186788) rotate(26.000000) translate(-18.186788, -11.186788) translate(11.686788, 4.686788)" fill="#000000">
                 <path d="M13,6.70699928 C12.65703,6.43576706 12.1382955,6.27147056 11.5611766,6.27147056 C10.7813937,6.27147056 10.1298423,6.56749027 9.84800781,7 C9.56617327,6.56749027 8.91324641,6.27147056 8.13483899,6.27147056 C7.35505602,6.27147056 6.70197632,6.56749027 6.42029463,7 C6.13846009,6.56749027 5.48553323,6.27147056 4.70712581,6.27147056 C3.92887123,6.27147056 3.27579153,6.56749027 2.99395699,7 C2.71212246,6.56749027 2.0591956,6.27147056 1.28078818,6.27147056 C0.791704386,6.27147056 0.338537686,6.38921109 0,6.59704457 C0.576966035,3.38071026 3.30391385,1 6.4901419,1 C8.14660757,1 9.73001634,1.64018432 10.9495162,2.80106459 C12.038339,3.83784857 12.7554581,5.20974021 13,6.70699928 Z" id="Path"></path>
                 <path d="M7,0.433844785 L7,1 C6.75,0.993551256 6.64875,0.989103847 6.478,0.989103847 C6.322,0.989103847 6.25,0.991327552 6,0.997776295 L6,0.433844785 C6,0.193017567 6.23175,0 6.5,0 C6.76825,0 7,0.193017567 7,0.433844785 Z" id="Path"></path>
                 <path d="M7,7 L7,11.517008 C7,12.2602726 6.35361345,12.8199106 5.4994958,12.8199106 C4.67310924,12.8199106 4,12.2075785 4,11.4543881 C4,11.3006847 4.14369748,11.1752989 4.32084034,11.1752989 C4.4994958,11.1752989 4.64184874,11.3005387 4.64184874,11.4543881 C4.64184874,11.9000257 5.01260504,12.2617323 5.48487395,12.2617323 C5.98168067,12.2617323 6.32789916,11.9484868 6.32789916,11.517008 L6.32789916,7.13954458 C6.49596639,7.27908917 6.57226891,7.43994495 6.57226891,7.61087247 C6.57210084,7.38024439 6.66386555,7.16669447 7,7 Z" id="Path"></path>
