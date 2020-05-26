@@ -1,3 +1,3 @@
-<img width="500" height="350" src="/logo-poppins-horizontal.png" alt="Awesome">
+<img height="350" src="/logo-poppins-horizontal.svg" alt="Awesome">
 
 🙋Specially made real projects for open source beginners to start contributing with
