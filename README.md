@@ -10,5 +10,5 @@
 
 # What is a Poppins Project?
 
-## Making your Project become a Poppins Project
+## How to build a Poppins Project?
 
