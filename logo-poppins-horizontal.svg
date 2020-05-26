@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="395px" height="152px" viewBox="0 0 395 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>noun_Umbrella_53490</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="Times-Bold, Times" font-size="116" font-weight="bold" letter-spacing="0.725000024" fill="#1D3557">
+            <tspan x="0" y="126">poppins</tspan>
+        </text>
+        <filter x="-0.5%" y="-0.7%" width="101.0%" height="102.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="noun_Umbrella_53490" transform="translate(-1.000000, 0.000000)">
+            <g id="poppins" fill="#1D3557" fill-opacity="1">
+                <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                <use xlink:href="#text-1"></use>
+            </g>
+            <path d="M339,66.0699928 C335.412006,63.3576706 329.985245,61.7147056 323.947694,61.7147056 C315.789964,61.7147056 308.973735,64.6749027 306.025312,69 C303.07689,64.6749027 296.24627,61.7147056 288.102931,61.7147056 C279.945201,61.7147056 273.112983,64.6749027 270.166159,69 C267.217736,64.6749027 260.387117,61.7147056 252.243778,61.7147056 C244.102037,61.7147056 237.269819,64.6749027 234.321396,69 C231.372973,64.6749027 224.542354,61.7147056 216.399015,61.7147056 C211.282446,61.7147056 206.541625,62.8921109 203,64.9704457 C209.035952,32.8071026 237.564022,9 270.896869,9 C288.226048,9 304.79094,15.4018432 317.548785,27.0106459 C328.939546,37.3784857 336.441716,51.0974021 339,66.0699928 Z" id="Path" fill="#E63946"></path>
+            <path d="M274,3.0369135 L274,7 C272.5,6.95485879 271.8925,6.92372693 270.868,6.92372693 C269.932,6.92372693 269.5,6.93929286 268,6.98443407 L268,3.0369135 C268,1.35112297 269.3905,0 271,0 C272.6095,0 274,1.35112297 274,3.0369135 Z" id="Path" fill="#E63946"></path>
+        </g>
+    </g>
+</svg>
