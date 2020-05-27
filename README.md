@@ -14,7 +14,7 @@ Poppins is a kind of project managed to help open source **beginners** to level 
 
 Projects created with this porpopuse may use the Poppins badge <img src="badge-poppins.svg" alt="Poppins"> to identify them as a good place for beginners to make their first contributions and learn how the OSS development works for real.
 
-To build a Poppins project, follow the [Manifesto Principles and Guidelines]("MANIFESTO.md") and have fun. =)
+**To build a Poppins project**, follow the [Manifesto Principles and Guidelines]("MANIFESTO.md") and have fun. =)
 
 ## Open source beginners find help here!
 
