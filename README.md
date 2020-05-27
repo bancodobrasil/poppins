@@ -24,4 +24,6 @@ This project follow the [Poppins manifesto guidelines](https://github.com/bancod
 
 Here's a list of curated Poppins projects:
 - [Poppins](https://github.com/bancodobrasil/poppins): "eat your own dog food", right?
+- [First Contributions Repository](https://github.com/firstcontributions/first-contributions)
+- [Contribute to this Project](https://github.com/Syknapse/Contribute-To-This-Project): This is for absolute beginners. If you know how to write and edit an anchor tag <a href="" target=""></a> then you should be able to do it.
 
