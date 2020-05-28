@@ -21,13 +21,17 @@ Part of the OSS mentoring journey is based on courses, readings and tutorials on
 1. Put as the first or second item on your README this piece of content:
 
 ```
+
 ## This project was made for first-time contributors and open source beginners
 
 This project follow the [Poppins manifesto guidelines](https://github.com/bancodobrasil/poppins) as part of it's community principles and policies, focusing all the decisions and interactions on providing open source beginners mentorship with real and relevant experiences, respecting each individual learning pace, background experince, academic formation, questions, suggestions, doubts and opinion. 
 
-So, let's start! Open an issue right now asking for a task to be done by you. A mentor/maintainer will come and provide a technical overview of the proejct and what are the possibles ways of contributing to the project. You will discuss the options and a suitable issue will be assigned or created to you. 
+## Contribute now!
+
+So, let's start contributing! **Open an issue asking for a task to be done by you**. A mentor/maintainer will come and provide a technical overview of the proejct and what are the possibles ways of contributing to the project. You will discuss the options and a suitable issue will be assigned or created to you. 
 
 That's it. Just make yourself at home and good luck!
+
 
 ```
 
