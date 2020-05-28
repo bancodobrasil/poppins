@@ -5,8 +5,10 @@
 </div>
 <br />
 <br />
-  <img height="20" src="badge-poppins.svg" alt="Poppins">
-  <img src="https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="awesome">
+
+  [![Poppins](badge-poppins.svg)](https://github.com/bancodobrasil/poppins)
+  [![Awesome](https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://github.com/sindresorhus/awesome)
+
 
 
 ## What is Poppins?

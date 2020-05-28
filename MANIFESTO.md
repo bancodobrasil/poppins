@@ -16,7 +16,7 @@ Part of the OSS mentoring journey is based on courses, readings and tutorials on
 
 1. Don't choose critical or "rush scheduled" projects to be a Poppins project. Remeber: the focus of the project is the beginners journey not the release of the software itself.
 
-1. Follow all the guidances of https://opensource.guide/building-community/
+1. Follow all the guidelines of https://opensource.guide/building-community/
 
 1. Put as the first or second item on your README this piece of content:
 
@@ -41,12 +41,20 @@ That's it. Just make yourself at home and good luck!
 
 1. Once you created a issue for the user, assign it to him/her and offer any help he/she may need to accomplish the task, whether the struggling being with the code itself, the open source process, the understanding of the problem, lack of documentation and so on. Walk side by side with the user from the day you opened the issue to when the user opens his Pull Request,
 
-1. All the issues created **MUST** be beginner friendly and be labeled as `good first issue`. If you think the issue you are writing is not a good first issue, try to break it into smaller pieces that could be faced as so.
+1. All the issues **MUST** be beginner friendly and be labeled as `good first issue`. If you think the issue you are writing is not a good first issue, try to break it into smaller pieces that could be faced as so.
 
 1. Before making your repo public, guarantee that it has enough documentation on how to run and test it so beginners won't struggle to run a "hello world" with it
 
-1. Keep your issues area clean, leaving as opened just the issues that are assigned to first-contributors and are actually being done.
+1. Keep your issues area clean, leaving just the issues that are assigned to first-contributors and are actually being done.
+
+1. Don't use the issues as a backlog. Keep your backlog in another tool and use it to pick an issue when a first-time contributor arrives and ask for a task to be done.
 
 1. Don't run over the project if there is little first-contributors comming. Instead of rush into the development by yourself, head to Twitter, Hackernews, Reddit, LinkedIn and other sort of social platformas and dev communities out there and annouce your project as a harmful place for first-contributors to come. 
 
-1. Don't use the issues as a backlog. Keep your backlog in another tool and use it to pick an issue when a first-time contributor arrives and ask for a task to be done.
+1. It is not a rule, but try to build a project with a "non-heavy" tech stack. Prefer libs and frameworks that has lots of tutorials, videos, blogs posts, stackoverflow answears and runs easily in any environment, with no special configurations or OS restrictions.
+
+1. Have fun and learn by teaching!
+
+## Let's fix Poppins! PR, please...
+
+Please, open issues in this Poppins repo bringing all the lessons learned, good examples of projects welcoming and guiding beginners, bring suggestions of what you think a Poppins project must and must no have and finally, make your (first) contribution to Poppins by sending a PR with your name on the [I met Poppins List](I_MET_POPPINS.md)!
