@@ -6,6 +6,7 @@
 <br />
 <br />
   <img height="20" src="badge-poppins.svg" alt="Poppins">
+  <img src="https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="awesome">
 
 
 ## What is Poppins?
@@ -16,14 +17,18 @@ Projects created with this porpopuse may use the Poppins badge <img src="badge-p
 
 **To build a Poppins project**, follow the [Manifesto Principles and Guidelines](MANIFESTO.md) and have fun. =)
 
-## Open source beginners find help here!
+## This project was made for first-time contributors and open source beginners
 
 This project follow the [Poppins manifesto guidelines](https://github.com/bancodobrasil/poppins) as part of it's community principles and policies, focusing all the decisions and interactions on providing open source beginners mentorship with real and relevant experiences, respecting each individual learning pace, background experince, academic formation, questions, suggestions, doubts and opinion. 
+
+So, let's start! Open an issue right now asking for a task to be done by you. A mentor/maintainer will come and provide a technical overview of the proejct and what are the possibles ways of contributing to the project. You will discuss the options and a suitable issue will be assigned or created to you. 
+
+That's it. Just make yourself at home and good luck!
 
 ## Awesome Poppins projects for you to go
 
 Here's a list of curated Poppins projects:
 - [Poppins](https://github.com/bancodobrasil/poppins): "eat your own dog food", right?
-- [First Contributions Repository](https://github.com/firstcontributions/first-contributions)
+- [First Contributions Repository](https://github.com/firstcontributions/first-contributions): Help beginners to contribute to open source projects
 - [Contribute to this Project](https://github.com/Syknapse/Contribute-To-This-Project): This is for absolute beginners. If you know how to write and edit an anchor tag <a href="" target=""></a> then you should be able to do it.
 
