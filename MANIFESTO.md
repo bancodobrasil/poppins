@@ -14,6 +14,8 @@ Part of the OSS mentoring journey is based on courses, readings and tutorials on
 
 ## Guidelines to make a Poppins project
 
+The guidelines above are just suggestions on how to make your project beginner friendly, but it is not a golden rule. So, if you already have your own set of practices working, keep doing it.! The important thing here is that the project is focused on mentoring beginners and first-contributors.
+
 1. Don't choose critical or "rush scheduled" projects to be a Poppins project. Remeber: the focus of the project is the beginners journey not the release of the software itself.
 
 1. Follow all the guidelines of https://opensource.guide/building-community/
