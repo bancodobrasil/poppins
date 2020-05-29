@@ -21,4 +21,7 @@ To find Poppins projects to start contributing to, check the awesome list below 
 Here's a list of curated Poppins projects:
 - [First Contributions Repository](https://github.com/firstcontributions/first-contributions): Help beginners to contribute to open source projects
 - [Contribute to this Project](https://github.com/Syknapse/Contribute-To-This-Project): This is for absolute beginners. If you know how to write and edit an anchor tag <a href="" target=""></a> then you should be able to do it.
+- [Contribute to open source](https://github.com/danthareja/contribute-to-open-source):
+Learn the GitHub workflow by contributing code in a fun simulation project
+
 
