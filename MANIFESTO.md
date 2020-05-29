@@ -10,7 +10,7 @@ Projects created with this porpopuse may use the Poppins badge <img src="badge-p
 
 ## Why Poppins?
 
-Part of the OSS mentoring journey is based on courses, readings and tutorials on how to use Git, GitHub, good practices in open source communities, why OSS is a hot thing in the IT industry and so on. After understanding and learning all this stuff you will face the challenge of making your first contribution. Whether you already know the project you want to contribute or not, you can find lots of resources in the Internet on how to find "Good First Issues". Some of them are outadated, but others are automated resources, like the [GitHub good first issues feature](https://github.blog/2020-01-22-how-we-built-good-first-issues/). But those good first issues resources **can be a step too big in your onboarding** process and maybe it would be smoother if you could contribute on projects that are **"good first projects"** before going to the good first issues.
+Part of the OSS mentoring journey is based on courses, readings and tutorials on how to use Git, GitHub, good practices in open source communities, why OSS is a hot thing in the IT industry and so on. After understanding and learning all this stuff you will face the challenge of making your first contribution. Whether you already know the project you want to contribute or not, you can find lots of resources in the Internet on how to find "Good First Issues". Some of them are outdated, but others are automated resources, like the [GitHub good first issues feature](https://github.blog/2020-01-22-how-we-built-good-first-issues/). But those good first issues resources **can be a step too big in your onboarding** process and maybe it would be smoother if you could contribute on projects that are **"good first projects"** before going to the good first issues.
 
 ## Guidelines to make a Poppins project
 
@@ -30,7 +30,7 @@ This project follow the [Poppins manifesto guidelines](https://github.com/bancod
 
 ## Contribute now!
 
-So, let's start contributing! **Open an issue asking for a task to be done by you**. A mentor/maintainer will come and provide a technical overview of the proejct and what are the possibles ways of contributing to the project. You will discuss the options and a suitable issue will be assigned or created to you. 
+So, let's start contributing! **Open an issue asking for a task to be done by you**. A mentor/maintainer will come and provide a technical overview of the project and what are the possibles ways of contributing to the project. You will discuss the options and a suitable issue will be assigned or created to you. 
 
 That's it. Just make yourself at home and good luck!
 
@@ -41,11 +41,11 @@ That's it. Just make yourself at home and good luck!
 
 1. Pin a welcoming issue with instructions on how the users can ask for a task to be done. For example: https://github.com/bancodobrasil/poppins/issues/1
 
-1. Keep the issue notifications enabled for all the mainteners of the project so one of them will quickly come and welcome recent users. When you respond quickly, people will feel they are part of a dialogue, and they’ll be more enthusiastic about participating. Don't let a user more than 48 hours without a response.
+1. Keep the issue notifications enabled for all the mainteners of the project so one of them will quickly come and welcome recent users. When you respond gentle and quickly, people will feel they are part of a dialogue, and they’ll be more enthusiastic about participating. Don't let a user more than 48 hours without a response.
 
 1. When a new user creates an issue asking for a task to do, answear him/her with an overview of the project goals, how the tech stack is set, what are the contributing options available and ask him some questions to try to find out what is his technical level so you can write an issue that is perfect for him.
 
-1. Once you created a issue for the user, assign it to him/her and offer any help he/she may need to accomplish the task, whether the struggling being with the code itself, the open source process, the understanding of the problem, lack of documentation and so on. Walk side by side with the user from the day you opened the issue to when the user opens his Pull Request,
+1. Once you created a issue for the user, assign it to him/her and offer any help he/she may need to accomplish the task, whether the struggling being with the code itself, the open source process, the understanding of the problem, lack of documentation and so on. Walk side by side with the user from the day you opened the issue to when the user opens his Pull Request.
 
 1. All the issues **MUST** be beginner friendly and be labeled as `good first issue`. If you think the issue you are writing is not a good first issue, try to break it into smaller pieces that could be faced as so.
 
@@ -55,7 +55,7 @@ That's it. Just make yourself at home and good luck!
 
 1. Don't use the issues as a backlog. Keep your backlog in another tool and use it to pick an issue when a first-time contributor arrives and ask for a task to be done.
 
-1. Don't run over the project if there is little first-contributors comming. Instead of rush into the development by yourself, head to Twitter, Hackernews, Reddit, LinkedIn and other sort of social platformas and dev communities out there and announce your project as a harmful place for first-contributors to come. 
+1. Don't run over the project if there is little first-contributors comming. Instead of rush into the development by yourself, head to Twitter, Hackernews, Reddit, LinkedIn and other sort of social platforms and dev communities out there and announce your project as a receptive place for first-contributors to come. 
 
 1. It is not a rule, but try to build a project with a "non-heavy" tech stack. Prefer libs and frameworks that has lots of tutorials, videos, blogs posts, stackoverflow answears and runs easily in any environment, with no special configurations or OS restrictions.
 
