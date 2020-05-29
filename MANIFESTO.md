@@ -53,7 +53,7 @@ That's it. Just make yourself at home and good luck!
 
 1. Don't use the issues as a backlog. Keep your backlog in another tool and use it to pick an issue when a first-time contributor arrives and ask for a task to be done.
 
-1. Don't run over the project if there is little first-contributors comming. Instead of rush into the development by yourself, head to Twitter, Hackernews, Reddit, LinkedIn and other sort of social platformas and dev communities out there and annouce your project as a harmful place for first-contributors to come. 
+1. Don't run over the project if there is little first-contributors comming. Instead of rush into the development by yourself, head to Twitter, Hackernews, Reddit, LinkedIn and other sort of social platformas and dev communities out there and announce your project as a harmful place for first-contributors to come. 
 
 1. It is not a rule, but try to build a project with a "non-heavy" tech stack. Prefer libs and frameworks that has lots of tutorials, videos, blogs posts, stackoverflow answears and runs easily in any environment, with no special configurations or OS restrictions.
 
