@@ -24,4 +24,10 @@ Here's a list of curated Poppins projects:
 - [Contribute to open source](https://github.com/danthareja/contribute-to-open-source):
 Learn the GitHub workflow by contributing code in a fun simulation project
 
+## Trivia
+
+The name is inspired by the [Pamela Lyndon Travers (P. L. Travers)](https://en.wikipedia.org/wiki/P._L._Travers) character and Disney movies **Mary Poppins**, the magical nanny that shows to two neglected children how the world can be a fascinating plance ready to be explored with excitement. During the mentoring process of the kids, **Mary Poppins** demonstrates affection, knowledge, experience, skill (magic), intelligence, fun and discipline. 
+
+So, that's the inspiration for Poppins: to bring projects that help beginners learn how to explore the open source world with excitement, intelligence, fun and discipline.
+
 
