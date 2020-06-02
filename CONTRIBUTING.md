@@ -1,6 +1,6 @@
 # Contributing to Poppins  
 
-Thank you for your support! All contribution are very important to us. The OpenSource wouldn't be where it is today without contributors like you who are willing to take the time to improve it for everyone else.
+First off, thank you for considering contributing to Poppins. It's people like you that make this project such a great tool for the Open Source community. We know how precious your time is and we will be quick to respond you and review your contribution.
 
 - [Contributing to Poppins](#contributing-to-poppins)
   - [Code of Conduct](#code-of-conduct)
