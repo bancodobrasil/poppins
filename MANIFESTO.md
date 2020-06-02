@@ -40,7 +40,7 @@ That's it. Just make yourself at home and good luck!
 
 ```
 
-1. Put a list of other [awesome](https://github.com/sindresorhus/awesome) Poppins projects in your README
+1. Put a list of other [awesome](https://github.com/sindresorhus/awesome) Poppins projects at the end of your README
 
 1. Pin a welcoming issue with instructions on how the users can ask for a task to be done. For example: https://github.com/bancodobrasil/poppins/issues/1
 
