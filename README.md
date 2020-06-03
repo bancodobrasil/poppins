@@ -6,11 +6,17 @@
 <br />
 <br />
 
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
+
+<br />
+
 ## What is Poppins?
 
-Poppins is a [manifesto](MANIFESTO.md) that states the importance of having open source projects focused on beginners and first contributors and how to do so. A project is considerate a "Poppins project" if it is mainly managed to help **beginners** to level up their skills and increase their experience with OSS in a **mentorship** community atmosphere. Poppins projects have a slower development pace and are not focused on making the best software out there, instead it aims to help beginners make their first contributions following a mentor-based learning approach, covering the main aspects of how to build a good OSS in a healthy community.
+Poppins is a [manifesto](MANIFESTO.md) that states the importance of having entire open source projects focused on beginners and first contributors and how to do so. A project is considerate a "Poppins project" if it is mainly managed to help **beginners** to level up their skills and increase their experience with OSS in a **mentorship** community atmosphere. Poppins projects have a slower development pace and are not focused on making the best software out there, instead it aims to help beginners make their first contributions following a mentor-based learning approach, covering the main aspects of how to build a good OSS in a healthy community.
 
 Projects created with this purpose may use the Poppins badge <img src="badge-poppins.svg" alt="Poppins"> to identify them as a good place for beginners to make their first contributions and learn how the OSS development works for real.
+
+Poppins is **heavily inspired** by the beautiful [First Timers Only](https://www.firsttimersonly.com). So, if you are looking for more resources for beginners, head to https://www.firsttimersonly.com and find some! =)
 
 To build a Poppins project, follow the [Manifesto Principles and Guidelines](MANIFESTO.md) and have fun. =)
 
