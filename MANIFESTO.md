@@ -50,7 +50,7 @@ That's it. Just make yourself at home and good luck!
 
 1. Once you created an issue for the user, assign it to him/her and offer any help he/she may need to accomplish the task, whether the struggling being with the code itself, the open source process, the understanding of the problem, lack of documentation and so on. Walk side by side with the user from the day you opened the issue to when the user opens his Pull Request.
 
-1. All the issues **MUST** be beginner-friendly and be labelled as `good first issue`. If you think the issue you are writing is not a good first issue, try to break it into smaller pieces that could be faced as so.
+1. All the issues **MUST** be beginner-friendly and be labelled as `good first issue` and  `first-timers-only`. If you think the issue you are writing is not a good first issue, try to break it into smaller pieces that could be faced as so.
 
 1. Before making your repo public, guarantee that it has enough documentation on how to run and test it so beginners won't struggle to run a "hello world" with it
 
