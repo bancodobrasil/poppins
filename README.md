@@ -29,6 +29,7 @@ Here's a list of curated Poppins projects:
 - [Contribute to this Project](https://github.com/Syknapse/Contribute-To-This-Project): This is for absolute beginners. If you know how to write and edit an anchor tag <a href="" target=""></a> then you should be able to do it.
 - [Contribute to open source](https://github.com/danthareja/contribute-to-open-source):
 Learn the GitHub workflow by contributing code in a fun simulation project
+- [Stop Analysing](https://github.com/bancodobrasil/stop-analyzing): This is a Web project to allow a user to choose between options in a trivia that could be embedded to an e-commerce or any other site. This is in very early phases of development. Help these guys define the first stages of the project!
 
 ## Trivia
 
