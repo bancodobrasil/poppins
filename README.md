@@ -29,6 +29,7 @@ Here's a list of curated Poppins projects:
 - [Contribute to this Project](https://github.com/Syknapse/Contribute-To-This-Project): This is for absolute beginners. If you know how to write and edit an anchor tag <a href="" target=""></a> then you should be able to do it.
 - [Contribute to open source](https://github.com/danthareja/contribute-to-open-source):
 Learn the GitHub workflow by contributing code in a fun simulation project
+- [goodfirstissue.dev](https://github.com/deepsourcelabs/good-first-issue): goodfirstissue.dev is a nice site to find good first issues and the repo where the projects database are curated is a really Poppins project
 
 ## Trivia
 
